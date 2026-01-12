@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 Pepps App 🎈")
 st.write(
     "Qualcosa non mi torna"
 )
